@@ -22,7 +22,7 @@ In the first place it's development for use on a Nintendo Switch, for use with [
 
 # Building (Lakka-Switch)
 1. Firstly needs build toolchain from [Lakka on the Nintendo Switch](https://github.com/lakka-switch/Lakka-LibreELEC)
-2. Clone this repo `git clone --recursive https://github.com/andreweskildß/moonlight-libretro.git`
+2. Clone this repo `git clone --recursive https://github.com/andreweskild/moonlight-libretro.git`
 3. `cd moonlight-libretro`
 4. Fix `TOOLCHAIN` path in Makefile, build_opus_lakka_switch.sh and build_ffmpeg_lakka_switch.sh
 5. `./build_opus_lakka_switch.sh`
